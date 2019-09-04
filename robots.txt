@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaixungai.charliebeattie.com/sitemap.xml
